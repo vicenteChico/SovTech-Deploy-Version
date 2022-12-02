@@ -1,5 +1,5 @@
 # SovTech-Deploy-Version
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`].
+This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`], and the styling was done with Tailwind CSS.
 
 ## Access this site:
 
