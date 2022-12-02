@@ -1,7 +1,7 @@
 # SovTech-Deploy-Version
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`].
 
-## Getting Started
+## Access this site:
 
 The link to the Netlify deployed site is:(https://warm-gingersnap-386779.netlify.app/)
 
